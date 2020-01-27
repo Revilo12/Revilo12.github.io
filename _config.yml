@@ -1,11 +1,11 @@
 # Site settings
 author: Oliver Dahl
-title: 
+title: Oliver's Coding Blog
 header-img: img/home-bg.png
 email: oliverpdahl@gmail.com
 copyright_name: Oliver Dahl
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog for Oliver's Coding Thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Revilo12
