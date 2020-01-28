@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Utility of a Page and other Oversimplifications"
-date:       2020-01-28 16:39:51 +0000
+date:       2020-01-28 11:39:52 -0500
 permalink:  the_utility_of_a_page_and_other_oversimplifications
 ---
 
