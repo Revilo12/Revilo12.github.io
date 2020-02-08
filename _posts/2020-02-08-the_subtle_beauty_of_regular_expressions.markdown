@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Subtle Beauty of Regular Expressions"
-date:       2020-02-08 16:27:09 +0000
+date:       2020-02-08 11:27:10 -0500
 permalink:  the_subtle_beauty_of_regular_expressions
 ---
 
